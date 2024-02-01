@@ -1,4 +1,5 @@
 # HiddenHarbor
+<img width="485" alt="Screenshot 2024-02-01 at 2 25 06 PM" src="https://github.com/sasi123-sk/HiddenHarbor/assets/81082865/839612bb-72f1-43c8-bce0-f8d64f5e4cc0">
 
 ## Description
 
