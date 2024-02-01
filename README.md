@@ -16,7 +16,7 @@ This Python tool provides a user-friendly interface for steganography and cipher
 1. Run the script using Python:
 
    ```bash
-   python steg_cipher_tool.py
+   python3 hiddenharbor.py
    
 ## Dependencies
 - Python 3.x
