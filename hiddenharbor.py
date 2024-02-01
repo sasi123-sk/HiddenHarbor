@@ -29,7 +29,7 @@ def steganography_menu():
 
         if choice == "1":
             path = input("Enter the path to the image: ")
-            word = "rockyou.txt"
+            word = input("Enter the wordlist path: ")
             subprocess.run(["stegcrack", path, word])
 
         elif choice == "2":
